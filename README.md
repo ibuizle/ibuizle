@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Hi, I'm Yevhenii Mykhailov
 
-<!--
-**ibuizle/ibuizle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Frontend Developer | React | TypeScript
 
-Here are some ideas to get you started:
+Frontend developer focused on building modern single-page applications using React and TypeScript. Experienced in implementing authentication flows, protected routes, REST API integration and global state management with Redux Toolkit. Passionate about clean architecture, reusable components and responsive UI development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Tech Stack
+
+JavaScript | TypeScript | React | Redux Toolkit | React Router
+REST APIs | Axios | HTML5 | CSS3 | Flexbox
+Git | GitHub | Vite | npm | Formik | Yup
+
+💻 Featured Projects
+📌 NoteHub
+
+Contact management SPA with full authentication flow, protected routes, CRUD operations and Redux Toolkit state management.
+Integrated REST API using Axios and handled asynchronous logic with createAsyncThunk.
+
+🔗 Live Demo
+https://09-auth-gray-phi.vercel.app/
+
+📌 Gallery
+
+Image search SPA with dynamic rendering, pagination logic, modal previews and asynchronous API requests.
+
+🔗 Live Demo
+https://ibuizle.github.io/Gallery/
+
+📌 WebStudio
+
+Responsive landing page with semantic HTML structure, adaptive layout and interactive UI elements.
+
+🔗 Live Demo
+https://ibuizle.github.io/Webstudio/
+
+🗣️ Languages
+
+📫 How to reach me
+
+LinkedIn
+
+Telegram
+
+Email: ibuizle@gmail.com
