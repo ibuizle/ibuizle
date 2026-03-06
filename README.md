@@ -56,3 +56,11 @@ https://ibuizle.github.io/Webstudio/
 [LinkedIn](https://www.linkedin.com/in/yevhenii-mykhailov)  
 [Telegram](https://t.me/ibuizle)  
 Email: ibuizle@gmail.com
+
+---
+
+## 📄 Resume
+
+📎 **Junior Frontend Developer Resume**
+
+[View Resume](https://drive.google.com/file/d/1BsmnDQjAw4HSODtU17dSxKBWO4VIxSw-/view?usp=sharing)
