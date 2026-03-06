@@ -1,44 +1,58 @@
-👋 Hi, I'm Yevhenii Mykhailov
+# 👋 Hi, I'm Yevhenii Mykhailov
 
-💻 Junior Frontend Developer | React | TypeScript
+💻 **Junior Frontend Developer | React | TypeScript**
 
 Frontend developer focused on building modern single-page applications using React and TypeScript. Experienced in implementing authentication flows, protected routes, REST API integration and global state management with Redux Toolkit. Passionate about clean architecture, reusable components and responsive UI development.
 
-🧰 Tech Stack
+---
 
-JavaScript | TypeScript | React | Redux Toolkit | React Router
-REST APIs | Axios | HTML5 | CSS3 | Flexbox
+## 🧰 Tech Stack
+
+JavaScript | TypeScript | React | Redux Toolkit | React Router  
+REST APIs | Axios | HTML5 | CSS3 | Flexbox  
 Git | GitHub | Vite | npm | Formik | Yup
 
-💻 Featured Projects
-📌 NoteHub
+---
 
-Contact management SPA with full authentication flow, protected routes, CRUD operations and Redux Toolkit state management.
+## 💻 Featured Projects
+
+### 📌 [NoteHub](https://github.com/ibuizle/NoteHub)
+
+Contact management SPA with full authentication flow, protected routes, CRUD operations and Redux Toolkit state management.  
 Integrated REST API using Axios and handled asynchronous logic with createAsyncThunk.
 
-🔗 Live Demo
+🔗 Live Demo  
 https://09-auth-gray-phi.vercel.app/
 
-📌 Gallery
+---
+
+### 📌 [Gallery](https://github.com/ibuizle/Gallery)
 
 Image search SPA with dynamic rendering, pagination logic, modal previews and asynchronous API requests.
 
-🔗 Live Demo
+🔗 Live Demo  
 https://ibuizle.github.io/Gallery/
 
-📌 WebStudio
+---
+
+### 📌 [WebStudio](https://github.com/ibuizle/Webstudio)
 
 Responsive landing page with semantic HTML structure, adaptive layout and interactive UI elements.
 
-🔗 Live Demo
+🔗 Live Demo  
 https://ibuizle.github.io/Webstudio/
 
-🗣️ Languages
+---
 
-📫 How to reach me
+## 🗣️ Languages
 
-LinkedIn
+![English](https://img.shields.io/badge/English-A2%20Pre--Intermediate-blue?style=flat-square)  
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
-Telegram
+---
 
+## 📫 How to reach me
+
+[LinkedIn](https://www.linkedin.com/in/yevhenii-mykhailov)  
+[Telegram](https://t.me/ibuizle)  
 Email: ibuizle@gmail.com
