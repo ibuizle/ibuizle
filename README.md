@@ -22,7 +22,7 @@ Contact management SPA with full authentication flow, protected routes, CRUD ope
 Integrated REST API using Axios and handled asynchronous logic with createAsyncThunk.
 
 🔗 Live Demo  
-https://09-auth-gray-phi.vercel.app/
+[https://09-auth-gray-phi.vercel.app/](https://note-hub-pearl.vercel.app/)
 
 ---
 
