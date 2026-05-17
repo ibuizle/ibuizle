@@ -63,4 +63,4 @@ Email: ibuizle@gmail.com
 
 📎 **Junior Frontend Developer Resume**
 
-[View Resume](https://drive.google.com/file/d/1BsmnDQjAw4HSODtU17dSxKBWO4VIxSw-/view?usp=sharing)
+[View Resume](https://drive.google.com/file/d/1CKEY_wguNEog-ToNRUcJm6btqhM5s3qc/view?usp=sharing)
